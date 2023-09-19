@@ -1,0 +1,8 @@
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\obj\Debug\Asynchronous.csproj.AssemblyReference.cache
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\obj\Debug\Asynchronous.csproj.SuggestedBindingRedirects.cache
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\obj\Debug\Asynchronous.csproj.CoreCompileInputs.cache
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\bin\Debug\Asynchronous.exe.config
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\bin\Debug\Asynchronous.exe
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\bin\Debug\Asynchronous.pdb
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\obj\Debug\Asynchronous.exe
+G:\IsDB Class\Project\C#\Async\Asynchronous\Asynchronous\obj\Debug\Asynchronous.pdb
